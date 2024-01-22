@@ -20,6 +20,8 @@ Simple generation of unix script to target directory. Just try an look to ./targ
 
 ```
 mvn io.github.antonsjava:script-plugin::script 
+```
+```
 mvn io.github.antonsjava:script-plugin::script -Dscript.pack=true
 ```
 
